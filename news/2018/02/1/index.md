@@ -9,19 +9,19 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem, "O Canada", gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-th.md)
-_Context: O Canada, Canadian Senate, House of Commons_
+_Context: House of Commons, O Canada, Canadian Senate_
 
 ##### Apple Inc.
 ### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
-_Context: App Store, Pavel Durov, Apple Inc., Telegram_
+_Context: Telegram, Pavel Durov, App Store, Apple Inc._
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
 The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
 
 ##### School shootings in the United States
-### [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md)
-_Context: California, School shootings in the United States, Los Angeles_
+### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
+_Context: School shootings in the United States, California, Los Angeles_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
@@ -31,13 +31,17 @@ Israel hails decision as &#039;necessary step in the fight against global terror
 ### [Morgan Geyser is sentenced to 40 years in a mental institution for her role in the attempted murder of Payton Leutner. ](/news/2018/02/1/morgan-geyser-is-sentenced-to-40-years-in-a-mental-institution-for-her-role-in-the-attempted-murder-of-payton-leutner.md)
 Morgan Geyser pleaded guilty to attempted first-degree intentional homicide earlier this year.
 
+##### 5 people are shot
+### [5 people are shot and 17 others sustain injuries during fighting between rival migrant groups in Calais, France. ](/news/2018/02/1/5-people-are-shot-and-17-others-sustain-injuries-during-fighting-between-rival-migrant-groups-in-calais-france.md)
+_Context: 5 people are shot, Calais_
+
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md)
-_Context: Luis Videgaray, Pena Nieto, United States Secretary of State, Rex Tillerson, President, United States-Mexico relations, Mexico_
+_Context: United States Secretary of State, Rex Tillerson, Luis Videgaray, United States-Mexico relations, President, Mexico, Pena Nieto_
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States under secretary of state for political affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
-_Context: State Department, Tom Shannon, under secretary of state for political affairs_
+_Context: Tom Shannon, State Department, under secretary of state for political affairs_
 
 ##### NASA
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)
